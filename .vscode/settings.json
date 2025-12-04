@@ -1,0 +1,14 @@
+{
+    "editor.codeLens": false,
+    "editor.formatOnSave": true,
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "[scala]": {
+        "editor.suggestSelection": "first",
+        "editor.formatOnPaste": false,
+        "editor.formatOnType": false,
+        "editor.autoIndent": "advanced",
+        "editor.defaultFormatter": "scalameta.metals",
+    }
+}
